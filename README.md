@@ -2,6 +2,13 @@
 
 This is the frontend client for **DevDrop**, a modern, responsive, real-time file-sharing application designed for seamless user experience. It interacts with the DevDrop backend to provide secure authentication and instant file transfer capabilities.
 
+## Backend Repository
+
+The backend server for DevDrop (Node.js + Express + TypeScript + Socket.io) is available here:
+
+🔗 https://github.com/taniyakamboj15/devDrop-backend
+
+
 ## Features
 
 -   **Modern UI/UX**: Built with React and Tailwind CSS for a sleek, responsive design.

@@ -69,6 +69,3 @@ src/
     ```
     The output will be in the `dist` folder.
 
-## Configuration
-
-Make sure your backend server is running. The frontend is configured to connect to `http://localhost:5000` by default (check `vite.config.ts` or API configuration files if you need to change this).

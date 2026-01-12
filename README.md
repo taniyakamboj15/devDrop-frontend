@@ -4,9 +4,8 @@ This is the frontend client for **DevDrop**, a modern, responsive, real-time fil
 
 ## Backend Repository
 
-The backend server for DevDrop (Node.js + Express + TypeScript + Socket.io) is available here:
+Access the backend repository **[DevDrop Backend](https://github.com/taniyakamboj15/devDrop-backend)**.
 
-🔗 https://github.com/taniyakamboj15/devDrop-backend
 
 
 ## Features
